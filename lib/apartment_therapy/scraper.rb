@@ -1,0 +1,5 @@
+
+
+class ApartmentTherapy::Scraper
+
+end
