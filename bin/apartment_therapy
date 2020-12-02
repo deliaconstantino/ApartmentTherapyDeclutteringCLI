@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+# require './lib/apartment_therapy'
+require "bundler/setup"
+require "apartment_therapy"
+
+ApartmentTherapy::CLI.new.call
